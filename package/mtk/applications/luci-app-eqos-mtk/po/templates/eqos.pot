@@ -1,62 +1,53 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:64
-msgid "Comment"
+msgid "Controlled device"
 msgstr ""
 
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:28
+msgid "Device rules"
+msgstr ""
+
 msgid "Download speed (Mbit/s)"
 msgstr ""
 
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:18
-#: applications/luci-app-eqos/root/usr/share/luci/menu.d/luci-app-eqos.json:3
-msgid "EQoS"
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:24
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:43
-msgid "Enable"
-msgstr ""
-
-msgid "IPV6Enable"
-msgstr ""
-
-#: applications/luci-app-eqos/root/usr/share/rpcd/acl.d/luci-app-eqos.json:3
-msgid "Grant UCI access for luci-app-eqos"
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:46
-msgid "IPV4 address"
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:19
-msgid "Network speed control service."
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:38
-msgid "Speed limit based on IP address(using unique comment less than 32 will enable hardware QOS"
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:29
-msgid "Total download bandwidth."
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:34
-msgid "Total upload bandwidth."
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:33
-msgid "Upload speed (Mbit/s)"
-msgstr ""
-
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:56
 msgid "Download speed (kbit/s)"
 msgstr ""
 
-#: applications/luci-app-eqos/htdocs/luci-static/resources/view/eqos.js:60
-msgid "Upload speed (kbit/s)"
+msgid "EQoS"
 msgstr ""
 
-msgid "IPV6 host"
+msgid "Enable"
+msgstr ""
+
+msgid "Grant UCI access for luci-app-eqos"
+msgstr ""
+
+msgid "IPv4 address"
+msgstr ""
+
+msgid "IPv6 address"
+msgstr ""
+
+msgid "MAC address"
+msgstr ""
+
+msgid "Network speed control service for MediaTek HNAT."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Slots 1-31 use HNAT HQoS; slots 32 and above use tc software shaping and require an IPv4 or IPv6 address."
+msgstr ""
+
+msgid "Total download bandwidth."
+msgstr ""
+
+msgid "Total upload bandwidth."
+msgstr ""
+
+msgid "Upload speed (Mbit/s)"
+msgstr ""
+
+msgid "Upload speed (kbit/s)"
 msgstr ""
